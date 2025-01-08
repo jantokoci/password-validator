@@ -1,0 +1,11 @@
+.strong-password{
+  color: rgb(0, 255, 0);
+}
+
+.weak-password{
+  color: red;
+}
+
+.password-criterium{
+  color: rgba(80, 80, 80, 0.432);
+}
